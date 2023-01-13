@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="add">Add</string>
+    <string name="something_type_here">Write your thoughts, notes, personal things etc......</string>
+    <string name="update">Update</string>
+    <string name="authenticate">Click here to fingerprint scan</string>
+    <string name="delete">Delete</string>
+</resources>
